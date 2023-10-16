@@ -3,5 +3,7 @@
 
 ```
 coverage run main.py
+```
+```
 coverage report -m
 ```
