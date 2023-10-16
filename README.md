@@ -2,5 +2,6 @@
 軟體正規方法 Edge Coverage
 
 ```
-python main.py
+coverage run main.py
+coverage report -m
 ```
