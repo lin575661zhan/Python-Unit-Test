@@ -16,3 +16,11 @@ coverage run edge_pair.py
 ```
 coverage report -m
 ```
+
+Test path Coverage
+```
+coverage run path.py
+```
+```
+coverage report -m
+```
